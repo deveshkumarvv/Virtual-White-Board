@@ -20,7 +20,7 @@ Say in the event that the client turns out badly, we really want a signal to add
 
 Requirements: python3 , numpy , opencv installed on your system.
 
-#How to execute the file:
+# How to execute the file:
 
 > Install any Python compiler.
 
