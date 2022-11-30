@@ -18,7 +18,7 @@ The client can change the shade of the text among the different accessible tones
 Backspace:
 Say in the event that the client turns out badly, we really want a signal to add a backspace
 
-# Requirements: Python3 , NumPy , OpenCV installed on your system.
+#Requirements: Python3 , NumPy , OpenCV installed on your system.
 
 # How to execute the file:
 
