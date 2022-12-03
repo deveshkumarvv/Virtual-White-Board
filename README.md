@@ -26,7 +26,9 @@ Say in the event that the client turns out badly, we really want a signal to add
 
 > Open Air-canvas.py and Run the Python File.
 
-> When You execute the File You can see 4 windows (Mask,Tracking,Paint, Color Detectors )
+> Before you run the code make sure that you have properly installed Python3 , NumPy , OpenCV .
+
+> When You execute the File You can see 4 windows ( Mask,Tracking,Paint,Color Detectors )
 
 > Color Detector will Show Which Color it will detect
 
